@@ -17,7 +17,7 @@ pontos relacionados: 4, 9, 11, 12, 13
 
 Python- https://docs.python.org/3/ e https://www.python.org/
 
-o que é o python: Python é uma linguagem de programação orientada a objetos abstratos 
+o que é o python: Python é uma linguagem de programação orientada à objetos abstratos 
 
 pontos relacionados: 1, 2, 3, 4, 5, 8, 9, 11, 12, 13, 14
 
