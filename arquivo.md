@@ -11,7 +11,7 @@ Pontos relacionados: 3, 4, 5, 6, 7, 9 ,10, 11, 12 ,13 ,14
 
 GIT- https://git-scm.com/ e https://git-scm.com/doc
 
-O que é GIT: sistema que armazena informações e gerenciamento de código e colaboração em projetos de software como uma lista de alterações baseadas em arquivos.
+O que é GIT: Armazenando dados como alterações em uma versão base de cada arquivo e Armazenando dados como instantâneos do projeto ao longo do tempo
 
 pontos relacionados: 4, 9, 11, 12, 13
 
