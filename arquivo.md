@@ -9,13 +9,13 @@ O que é VSCCODE: O Visual Studio Code é um editor de código-fonte leve, mas p
 
 Pontos relacionados: 3, 4, 5, 6, 7, 9 ,10, 11, 12 ,13 ,14
 
-GIT- https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F e https://git-scm.com/doc
+GIT- https://git-scm.com/ e https://git-scm.com/doc
 
 O que é GIT: sistema que armazena informações e gerenciamento de código e colaboração em projetos de software como uma lista de alterações baseadas em arquivos.
 
 pontos relacionados: 4, 9, 11, 12, 13
 
-Python- https://docs.python.org/3/ e https://python-forum.io/
+Python- https://docs.python.org/3/ e https://www.python.org/
 
 o que é o python: Python é uma linguagem de programação orientada a objetos claros e poderosos
 
