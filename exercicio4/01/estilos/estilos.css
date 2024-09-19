@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sofadi+One&display=swap');
+
+html {
+    font-size: 20px;
+    font-family: "Roboto", serif;
+}
+
+
+
+.div-relative {
+    height: 100%;
+    width: 100vh;
+    background-color: blueviolet;
+}
+
+
+.title {
+    font-size: 60px;
+
+
+}
+
+.div-fundo {
+    width: 800px;  
+    height: 30px; 
+    background-color: #e9730d; 
+}
+
+
+.span {
+    width: 90px;
+    height: 100px;
+    color: aqua;
+    background-color: brown;
+
+
+}
