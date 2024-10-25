@@ -1,0 +1,49 @@
+#minha-div{
+    width: 80%;
+    margin: 0 auto;
+    height: 50vh;
+    background-color: brown;
+}
+
+@media screen and (min-width: 360px){
+    #minha-div{
+        background-color: blue;
+        height: 20vh;
+    }
+}
+
+@media screen and (min-width: 600px){
+    #minha-div{
+        background-color: green;
+        height: 30vh;
+    }
+}
+
+@media screen and (min-width: 768px){
+    #minha-div{
+        background-color: orange;
+        height: 40vh;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    #minha-div{
+        background-color: purple;
+        height: 60vh;
+    }
+}
+
+#div-exclusiva {
+    display: none; 
+}
+
+@media screen and (min-width: 400px) and (max-width: 982px) {
+    #div-exclusiva {
+        display: block; 
+        width: 30rem;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f1c40f;
+        height: 40vh;
+    }
+}

@@ -1,0 +1,28 @@
+#conteiner{
+    display: grid;
+    gap: 5px;
+}
+
+#conteiner > div{
+    background-color: aqua;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-weight: 600;
+}
+#conteiner > div:nth-child(odd){
+    display: none;
+}
+
+@media screen and (min-width: 760px) {
+    #conteiner{
+        grid-template-columns: auto auto;
+    }
+    
+    #conteiner > div:nth-child(odd){
+        display: flex;
+    }
+}
