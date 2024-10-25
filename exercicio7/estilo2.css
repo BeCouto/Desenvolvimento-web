@@ -3,7 +3,7 @@
     gap: 5px;
     grid-template-areas: 
            "a a"
-           "b c"
+           "c b"
            "d e"
            "f f"
     ;
@@ -36,4 +36,19 @@
     align-items: center;
     font-size: 2em;
     font-weight: 600;
+}
+
+@media screen and (min-width: 760px){
+    #conteiner {
+        grid-template-areas: 
+            "a a b"
+            "c d b"
+            "e f f"
+    ;
+    grid-template-rows: repeat(3, 10rem);
+}
+
+#conteiner > div {
+    height: 100%;
+}
 }
